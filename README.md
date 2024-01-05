@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty-k&label=Profile%20views&color=0e75b6&style=flat" alt="mighty-k" /> </p>
 
-- 🌱 I’m currently learning **React and express js**
+- 🌱 Currently working on **cybersecurity** aspiring to be an **ethical hacker**
 
 - 💬 Ask me about **react, bootstrap and express**
 
