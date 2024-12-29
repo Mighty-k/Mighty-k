@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mighty-k&label=Profile%20views&color=0e75b6&style=flat" alt="mighty-k" /> </p>
-
-- 🌱 Currently working on **cybersecurity** aspiring to be an **ethical hacker**
-
 - 💬 Ask me about **react, bootstrap and express**
 
 - 📫 How to reach me **tiolupopo@gmail.com**
